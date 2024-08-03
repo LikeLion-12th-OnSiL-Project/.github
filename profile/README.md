@@ -1,4 +1,4 @@
-# 🍚🍴 OnSiL
+# OnSiL
 
 ![image](https://github.com/user-attachments/assets/97616ab7-d146-47f7-9eac-128cb906f01b)
 
