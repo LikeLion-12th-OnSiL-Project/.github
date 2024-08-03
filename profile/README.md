@@ -1,13 +1,12 @@
-# OnSiL
+# 🚶🏻OnSiL
 
 ![image](https://github.com/user-attachments/assets/97616ab7-d146-47f7-9eac-128cb906f01b)
 
-## 🍛 Group 3 Team Member - `3 Minute Query`
+## 👥ONSIL Team Member 
 
-| <img src="https://avatars.githubusercontent.com/u/119058637?v=4" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/535b423b-f9c6-4c9a-8052-d1484c7145fb" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/3679e77e-3678-4f16-a927-04b2c9f2309d" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/e5de118d-7587-416b-bd9b-d965db443df1" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/589d04ac-c48f-4491-a2f4-6f372ad95138" height=100/> |
+| <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height=100/>|
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                            조창욱                            |                            이나현                            |                            김민석                            |                            유제은                            |                            김정모                            |                            송의혁                            |
-| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) <br>` ESTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/sksmsdlskgus) <br>` ENTJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/minseokKim6823) <br>` E(I)STP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YuJeeun) <br>` INFP `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/mojeeeeong) <br>` INFJ `| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/euihyeok-song) <br>` ESFP `|
+|                            김민석                            |                            이재영                            |                            윤준상                            |                            이성원                            |                            김해수                            |                            정혜교                            |
 
 <br>
 
@@ -556,6 +555,3 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 
 </details>
 <br>
-
-
-\
