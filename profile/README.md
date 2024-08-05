@@ -79,7 +79,7 @@
 <br><br>
 ## 📊 DB모델링
 ### 01_ 개념적 모델링
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8212505d-0770-4ec4-9045-d8135ab634b2)
+![image](https://github.com/user-attachments/assets/18ba6e53-54ef-49d5-912e-04346353f031)
 
 
 ### 02_ 논리적 모델링
