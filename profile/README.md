@@ -16,7 +16,7 @@
 ![KakaoTalk_20240806_212906899](https://github.com/user-attachments/assets/6b7689ae-2da0-4dcb-ac75-7ea67288ae40)
 ![KakaoTalk_20240806_212911301](https://github.com/user-attachments/assets/e24495ff-9eb7-428e-bd9d-8da205bfcdb2)
 ![KakaoTalk_20240806_212914779](https://github.com/user-attachments/assets/543d0688-7619-4e34-a5b9-1fcf36fefbf1)
-![KakaoTalk_20240806_2129193](https://github.com/user-attachments/assets/2db296ab-ba82-45f7-a2e4-6a335752e4d4)
+
 
 
 ## ⚙️🛠️ Technical Stack
